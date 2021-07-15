@@ -15,7 +15,7 @@ Milestone 1 - WIP
 
 ## Team Members
 
-- Eloise Yu: My name is Eloise, and am a third year management student from Taiwan.
+- Eloise Yu: My name is Eloise and am a third year management student from Taiwan.
 - June Kang: My name is June Kang, I am 4th year computer science major student.
 - Gabrielcha Chen: I am Gabrielcha. I am a year 4 students, majoring in Computer Science.
 
