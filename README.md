@@ -1,10 +1,9 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 009 - World Happiness Data Analysis
 
-- Your title can change over time.
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+Milestone 1 - WIP
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -16,10 +15,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Person 1: My name is Eloise, and am a third year management student from Taiwan.
+- Person 2: My name is June Kang, I am 4th year computer science major student.
+- Person 3: I am Gabrielcha. I am a year 4 students, majoring in Computer Science.
 
 ## References
 
-{Add your stuff here}
+https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report-2021.csv
