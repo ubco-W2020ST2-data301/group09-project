@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pylab as plt
+import seaborn as sns
 
 def load_and_process(url_or_path_to_csv_file):
     
@@ -21,4 +23,9 @@ def load_and_process(url_or_path_to_csv_file):
 
     return df2 
 
+
+def load_year (dataframe ,year):
+    dfyear = dataframe[dataframe['year'] == year].reset_index(drop=True)
+    return dfyear
+    
 
