@@ -3,7 +3,7 @@
 
 ## Milestones
 
-Click Here (https://github.com/data301-2021-summer2/group09-project)
+[Click Here] (https://github.com/data301-2021-summer2/group09-project)
 
 ## Describe your topic/interest in about 150-200 words
 
