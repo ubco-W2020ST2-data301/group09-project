@@ -3,8 +3,8 @@
 
 ## Milestones
 
-[Milestone 1](https://github.com/data301-2021-summer2/group09-project/tree/main/data/raw)
-[Milestone 2](https://github.com/data301-2021-summer2/group09-project/tree/main/analysis)
+- [Milestone 1](https://github.com/data301-2021-summer2/group09-project/tree/main/data/raw)
+- [Milestone 2](https://github.com/data301-2021-summer2/group09-project/tree/main/analysis)
 
 ## Describe your topic/interest in about 150-200 words
 
