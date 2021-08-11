@@ -5,6 +5,7 @@
 
 - [Milestone 1](https://github.com/data301-2021-summer2/group09-project/tree/main/data/raw)
 - [Milestone 2](https://github.com/data301-2021-summer2/group09-project/tree/main/analysis)
+- Milestone 3 & 4 WIP
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -17,7 +18,7 @@ This data set is the world happiness report made by Ajaypal Singh, who is curren
 
 ## Team Members
 
-- Eloise Yu: My name is Eloise and am a third year management student from Taiwan.
+- Eloise Yu: My name is Eloise and am a third year management student.
 - June Kang: My name is June Kang, I am 4th year computer science major student.
 - Gabrielcha Chen: I am Gabrielcha. I am a year 4 students, majoring in Computer Science.
 
