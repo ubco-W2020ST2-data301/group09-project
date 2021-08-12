@@ -14,7 +14,6 @@ def load_and_process(path):
            )
     
     
-    
     df1 = (
               df0
               .loc[df0.year >= 2008]
@@ -28,11 +27,10 @@ def load_and_process(path):
             df1
             #.groupby('Country name')['life_expectancy'].apply(lambda x:x.fillna(x.mean()))
             #.groupby('Country name')['Freedom_life_choices_in_percentage'].apply(lambda x:x.fillna(x.mean()))
-        
             .fillna(0,axis='columns')
             .loc[(df1['life_expectancy'] != 0) ]
             #.groupby('Country name')
-            #.filter(lambda x : len(x)>10)
+            .filter(lambda x : len(x)>10)
                    
  )
 
