@@ -29,4 +29,4 @@ https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-h
 
 
 ## Final Dashboard Presentation
-- [Clicker here](https://youtu.be/75L3Hr1HCXM)
+- [Click here](https://youtu.be/75L3Hr1HCXM)
